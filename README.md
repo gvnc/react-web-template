@@ -5,7 +5,7 @@ This is a basic web template in React JS which can be used to make a fresh start
 
 Demo page can be found here : 
 
-https://react-web-template.herokuapp.com/#/
+https://react-web-template.herokuapp.com
 
 It is a Single Page App with routing implemented in the left side menu.
 
