@@ -1,9 +1,13 @@
 
 # react-web-template
 
-This is a basic web template in React JS which can be used for a fresh start to implement new admin sites.
+This is a basic web template in React JS which can be used to make a fresh start when implementing a new admin site.
 
-It is Single Page App with routing implemented in the left side menu.
+Demo page can be found here : 
+
+https://react-web-template.herokuapp.com/#/
+
+It is a Single Page App with routing implemented in the left side menu.
 
 PrimeReact component library is added and ready to use.
 
